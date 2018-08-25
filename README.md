@@ -1,3 +1,3 @@
-# read-mi
+# read-me
 hello world
 hello universe
